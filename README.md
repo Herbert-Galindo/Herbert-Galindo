@@ -3,7 +3,7 @@
 
 
 - 🔭 Estou atualmente em busca de emprego ou estágio na área de Tecnologia.
-- 🌱 Estou estudando Java e .NET
+- 🌱 Estou estudando Python e Java
 - 😄 Pronouns: ele/dele
 - ⚡ Gosto de games, filmes e Tecnologia!
 
@@ -14,7 +14,7 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Herbert-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Herbert-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Herbert-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 </div>
   
