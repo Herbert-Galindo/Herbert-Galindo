@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Estou atualmente estagiando na área de Tecnologia.
+- 🔭 Estou atualmente em busca de emprego.
 - 🌱 Estou estudando Python e Java
 - 😄 Pronouns: ele/dele
 - ⚡ Gosto de games, filmes e Tecnologia!
